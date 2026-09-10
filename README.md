@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palettes/mocha.png" width="300" alt="Catppuccin Cat" />
+  <img src="https://media.tenor.com/q8mZOtMrj1EAAAAM/leon-kennedy-peace-leon-kennedy-peace-sign.gif" width="300" alt="Leon saludando" />
 </p>
 
 <!--
